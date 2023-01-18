@@ -1,2 +1,2 @@
 # ResumoDeVendas
- Automação do envio de um reseumo de vendas a partir de determinada base de dados
+ Automação do envio, por email, de um resumo de vendas. A partir de determinada base de dados.
